@@ -26,7 +26,7 @@ class Statistics(object):
 def main():
 	stats = Statistics()
 
-	if len(sys.argv) < 3:
+	if len(sys.argv) < 4:
 		raise Exception("Usage: $0 SOURCES_DIR TARGET_DIR VCARD_FILE")
 
 	src_path = sys.argv[1]
