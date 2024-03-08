@@ -1,2 +1,2 @@
 # chronify
-A tool for organizing phone calls recordings made by different phones in chronological order and canonical name.
+A tool for organizing phone call recordings made by different phones in a chronological order and with normalized names.
